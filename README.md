@@ -13,3 +13,6 @@ To run the code
 4. Upload the data file and pre-trained model to Google Colab (on the left side under Files, click the 'Upload to Session Storage' button and upload both files) 
 5. Specify the mode (test or train) 
 6. Run notebook 
+
+Tips:
+- If you are having trouble getting the code to run or uploading data files in Google Colab, try a different browser! Chrome worked better than firefox.
